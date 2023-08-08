@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "transmission-lines"
+version = "0.1.0"
+description = "This repo contains all the scraper regarding transmission lines . The data describes different transmission lines belonging to various sectors (Central, public and private ) having different circuit types.Also the lines have varying length and voltages depending on the region they are catering."
+authors = ["Dhruv Talan"]
+
+[tool.poetry.dependencies]
+python = "^3.7"
+python-dotenv = "^0.13.0"
+
+[tool.poetry.dev-dependencies]
+pytest = "^5.2"
+
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"
