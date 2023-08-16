@@ -1,7 +1,7 @@
-transmission-lines
+Women-Mnrega
 ==============================
 
-This repo contains all the scraper regarding transmission lines . The data describes different transmission lines belonging to various sectors (Central, public and private ) having different circuit types.Also the lines have varying length and voltages depending on the region they are catering.
+This project is regarding the women benificiaries under Mahatma Gandhi National Rural Employment Guarantee Act 2005 or MGNREGA, the folder is sub divided into various sub folders for each year in which there are csv's giving us infiormation for benificiaries state , district , block , tootla no of accounts etc.
 
 Project Structure
 ------------
@@ -51,4 +51,3 @@ Project Structure
 --------
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
-
