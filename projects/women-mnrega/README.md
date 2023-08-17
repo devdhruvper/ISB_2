@@ -51,3 +51,16 @@ Project Structure
 --------
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
+
+<p><small>The project of Women Mnrega is regarding consolidating the data for different years based on state->district->block into a final merged csv</small></p>
+
+<p><small>Used python libraries as well as fucntions 
+<ul>
+  <li>setting the path </li>
+  <li>Getting the sub folder names</li>
+  <li>Appending the data frames using a for loop to iterate through subfolders and in them files</li>
+  <li>converting our appended dataframes to a single dataframe and finally a csv</li>
+</ul>
+</small></p>
+
+<p><small>File name Task2.py stored in .\src\data folder</small></p>

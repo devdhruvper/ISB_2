@@ -52,3 +52,15 @@ Project Structure
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
 
+<p><small>The project of Transmission lines is regarding fetching the data from the <a href="https://cea.nic.in/api/transmission_lines.php">source site</a> and transforming into a csv</small></p>
+
+<p><small>Use python libraries as well as fucntions 
+<ul>
+  <li>To first set the path 1</li>
+  <li>To fetch the data</li>
+  <li>To convert month column in date format</li>
+  <li>Comvert to csv</li>
+</ul>
+</small></p>
+
+<p><small>File name Task1.py stored in .\src\data folder</small></p>
